@@ -1,0 +1,112 @@
+backend:
+  name: github
+  repo: PeterLevin08/RM-General-Contractor-2.0
+  branch: main
+  base_url: https://rm-general.peterlevin08.workers.dev
+  auth_endpoint: /auth
+
+media_folder: assets/uploads
+public_folder: https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads
+
+collections:
+  - name: website
+    label: Website content
+    files:
+      - name: site
+        label: Website copy, contact details and gallery
+        file: content/site.json
+        format: json
+        fields:
+          - label: Business information
+            name: business
+            widget: object
+            fields:
+              - { label: Business name, name: name, widget: string }
+              - { label: Phone number shown on the website, name: phoneDisplay, widget: string }
+              - { label: Phone number for call links, name: phoneTel, widget: string, hint: "Include country code, e.g. +16478658009" }
+              - { label: Street address, name: streetAddress, widget: string }
+              - { label: City, province and postal code, name: cityAddress, widget: string }
+              - { label: Short address for the top bar, name: topbarAddress, widget: string }
+              - { label: Top bar hours, name: topbarHours, widget: string }
+              - { label: Monday–Saturday hours, name: weekdayHours, widget: string }
+              - { label: Sunday hours, name: sundayHours, widget: string }
+              - { label: Footer hours, name: footerHours, widget: string }
+              - { label: Service area, name: serviceArea, widget: text }
+              - { label: Liability insurance statement, name: liabilityInsurance, widget: string }
+              - { label: WSIB insurance statement, name: wsibInsurance, widget: string }
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - { label: Eyebrow, name: eyebrow, widget: string }
+              - { label: Heading before italic text, name: title, widget: string }
+              - { label: Italic heading text, name: emphasis, widget: string }
+              - { label: Introductory paragraph, name: lead, widget: text }
+          - label: Services section
+            name: servicesSection
+            widget: object
+            fields:
+              - { label: Eyebrow, name: eyebrow, widget: string }
+              - { label: Heading before italic text, name: title, widget: string }
+              - { label: Italic heading text, name: emphasis, widget: string }
+              - { label: Introductory paragraph, name: lead, widget: text }
+          - label: Service cards
+            name: services
+            widget: list
+            min: 2
+            max: 2
+            fields:
+              - { label: Category label, name: category, widget: string }
+              - { label: Title, name: title, widget: string }
+              - { label: Description, name: description, widget: text }
+              - label: Highlights
+                name: bullets
+                widget: list
+                field: { label: Highlight, name: highlight, widget: string }
+              - { label: Service image, name: image, widget: image }
+              - { label: Image description for accessibility, name: imageAlt, widget: string }
+              - { label: Estimate link label, name: buttonLabel, widget: string }
+          - label: Project gallery section
+            name: projectsSection
+            widget: object
+            fields:
+              - { label: Eyebrow, name: eyebrow, widget: string }
+              - { label: Heading before italic text, name: title, widget: string }
+              - { label: Italic heading text, name: emphasis, widget: string }
+              - { label: Introductory paragraph, name: lead, widget: text }
+          - label: Project gallery
+            name: projects
+            widget: list
+            summary: "{{fields.title}}"
+            fields:
+              - label: Project type
+                name: category
+                widget: select
+                options:
+                  - { label: Residential, value: residential }
+                  - { label: Commercial, value: commercial }
+              - { label: Project title, name: title, widget: string }
+              - { label: Project location and detail, name: location, widget: string }
+              - { label: Project photo, name: image, widget: image }
+              - { label: Photo description for accessibility, name: imageAlt, widget: string }
+          - label: Frequently asked questions
+            name: faq
+            widget: object
+            fields:
+              - { label: Eyebrow, name: eyebrow, widget: string }
+              - { label: Heading before italic text, name: title, widget: string }
+              - { label: Italic heading text, name: emphasis, widget: string }
+              - label: Questions
+                name: items
+                widget: list
+                fields:
+                  - { label: Question, name: question, widget: string }
+                  - { label: Answer, name: answer, widget: text }
+          - label: Contact section
+            name: contact
+            widget: object
+            fields:
+              - { label: Eyebrow, name: eyebrow, widget: string }
+              - { label: Heading before italic text, name: title, widget: string }
+              - { label: Italic heading text, name: emphasis, widget: string }
+              - { label: Introductory paragraph, name: lead, widget: text }

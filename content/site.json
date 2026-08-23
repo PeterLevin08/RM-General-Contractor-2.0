@@ -1,0 +1,144 @@
+{
+  "business": {
+    "name": "General Contractor",
+    "phoneDisplay": "(647) 865-8009",
+    "phoneTel": "+16478658009",
+    "streetAddress": "5500 Yonge St",
+    "cityAddress": "North York, ON M2N 7L1",
+    "topbarAddress": "5500 Yonge St, North York, ON",
+    "topbarHours": "Mon – Sat, 9 AM – 7 PM",
+    "weekdayHours": "9 AM – 7 PM",
+    "sundayHours": "Closed",
+    "footerHours": "Mon – Sat · 9 AM – 7 PM",
+    "serviceArea": "North York, Toronto, Vaughan, Richmond Hill, Markham, Mississauga and the surrounding GTA.",
+    "liabilityInsurance": "$5,000,000 general liability insurance",
+    "wsibInsurance": "WSIB insured & in good standing"
+  },
+  "hero": {
+    "eyebrow": "General contractor · North York & GTA",
+    "title": "Renovations built to live",
+    "emphasis": "with.",
+    "lead": "Meticulous home renovations and commercial build-outs - Quality craftsmanship, honest communication, and exceptional results."
+  },
+  "servicesSection": {
+    "eyebrow": "What we do",
+    "title": "Two disciplines that",
+    "emphasis": "define our craft",
+    "lead": "Residential renovations and commercial projects, planned properly and finished with care."
+  },
+  "services": [
+    {
+      "category": "01 · Residential",
+      "title": "Home Renovations",
+      "description": "Kitchens, bathrooms, basements, condos and full-home renovations. We coordinate every trade and protect your home from demolition day to final walkthrough.",
+      "bullets": [
+        "Kitchen & bathroom renovations",
+        "Open-concept spaces — remove load-bearing walls to make your space feel bigger",
+        "Basements — finishing, egress, in-law & rental suites",
+        "Condo renovations & pre-sale upgrades",
+        "Flooring, painting, trim & feature walls"
+      ],
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80&auto=format&fit=crop",
+      "imageAlt": "Bright renovated kitchen with a large island",
+      "buttonLabel": "Get a renovation quote"
+    },
+    {
+      "category": "02 · Commercial",
+      "title": "Commercial Projects",
+      "description": "Build-outs and renovations for offices, studios, retail and hospitality spaces. We work to your drawings and your opening date, coordinate trades, and keep the site clean and code-compliant.",
+      "bullets": [
+        "Office & workspace build-outs",
+        "Retail and showroom fit-outs",
+        "Studios & specialty spaces — cycloramas, acoustic walls",
+        "Commercial washrooms & plumbing rough-in",
+        "Turnkey project management & trade coordination"
+      ],
+      "image": "https://images.unsplash.com/photo-1706074793638-da28b90ea8ae?w=1200&q=80&auto=format&fit=crop",
+      "imageAlt": "Modern commercial office space with a long conference table",
+      "buttonLabel": "Discuss a commercial build"
+    }
+  ],
+  "projectsSection": {
+    "eyebrow": "Selected work",
+    "title": "Projects that",
+    "emphasis": "define our style",
+    "lead": "A selection of the homes and spaces we've transformed across the GTA."
+  },
+  "projects": [
+    {
+      "category": "residential",
+      "title": "Full Kitchen Renovation",
+      "location": "North York · Quartz counters, shaker cabinetry & brass hardware",
+      "image": "assets/img/kitchen-shaker.jpg",
+      "imageAlt": "Renovated kitchen with cream shaker cabinets, quartz countertops and brass hardware"
+    },
+    {
+      "category": "commercial",
+      "title": "Photography Studio Build-Out",
+      "location": "Toronto · Cyclorama, wainscotting & slat walls",
+      "image": "assets/img/studio-cyclorama.jpg",
+      "imageAlt": "Photography studio build-out with large white cyclorama, wainscotting wall and black wood slat accent wall"
+    },
+    {
+      "category": "residential",
+      "title": "Full Bathroom Rebuild",
+      "location": "North York · Black-trim glass shower & porcelain tile",
+      "image": "assets/img/bath-black-shower.jpg",
+      "imageAlt": "Renovated bathroom with black-framed glass shower and grey marble-look tile"
+    },
+    {
+      "category": "residential",
+      "title": "Condo Pre-Sale Renovation",
+      "location": "Toronto · Quartz island, flooring & pot lights",
+      "image": "assets/img/condo-kitchen.jpg",
+      "imageAlt": "Renovated condo kitchen with quartz island, wood cabinetry and pot lights"
+    },
+    {
+      "category": "commercial",
+      "title": "Office Fit-Out",
+      "location": "GTA · Partitions, ceilings & finishes",
+      "image": "https://images.unsplash.com/photo-1706689656095-168768dc20a5?w=900&q=80&auto=format&fit=crop",
+      "imageAlt": "Modern office interior with desks, chairs and plants"
+    },
+    {
+      "category": "residential",
+      "title": "Ensuite Bath, Black Trim",
+      "location": "North York · Tile, glass & matte-black fixtures",
+      "image": "assets/img/bath-black-vanity.jpg",
+      "imageAlt": "Second angle of renovated bathroom with black-framed shower, new vanity and marble-look floor"
+    }
+  ],
+  "faq": {
+    "eyebrow": "Common questions",
+    "title": "Everything you need to know",
+    "emphasis": "before we begin",
+    "items": [
+      {
+        "question": "What types of projects do you take on?",
+        "answer": "We handle home renovations, kitchens and bathrooms, basement finishing, condo renovations, and commercial build-outs including office and retail fit-outs."
+      },
+      {
+        "question": "Where do you provide service?",
+        "answer": "Our team serves North York, Toronto, Vaughan, Richmond Hill, Markham, Mississauga, and communities throughout the surrounding GTA."
+      },
+      {
+        "question": "How does the estimate process work?",
+        "answer": "Call us to talk through your project. We’ll arrange a site visit, understand the scope, and provide a clear written estimate. Estimates are always free."
+      },
+      {
+        "question": "Are you insured?",
+        "answer": "Yes. RM General Contractor Inc. carries $5 million in general liability insurance and is WSIB insured and in good standing. Certificates are available on request before work begins."
+      },
+      {
+        "question": "When can I reach you?",
+        "answer": "We’re available Monday through Saturday, from 9 AM to 7 PM. Call (647) 865-8009 to get started."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "title": "Tell us about",
+    "emphasis": "your project",
+    "lead": "Call directly — we'll arrange a site visit and get you a clear written estimate."
+  }
+}
