@@ -1,22 +1,22 @@
 {
   "business": {
+    "serviceArea": "North York, Toronto, Vaughan, Richmond Hill, Markham, Mississauga and the surrounding GTA.",
+    "wsibInsurance": "WSIB insured & in good standing",
+    "weekdayHours": "9 AM – 7 PM",
+    "cityAddress": "North York, ON M2N 7L1",
     "name": "General Contractor",
-    "phoneDisplay": "(647) 865-8009",
+    "liabilityInsurance": "$5,000,000 general liability insurance",
     "phoneTel": "+16478658009",
     "streetAddress": "5500 Yonge St",
-    "cityAddress": "North York, ON M2N 7L1",
-    "topbarAddress": "5500 Yonge St, North York, ON",
     "topbarHours": "Mon – Sat, 9 AM – 7 PM",
-    "weekdayHours": "9 AM – 7 PM",
-    "sundayHours": "Closed",
     "footerHours": "Mon – Sat · 9 AM – 7 PM",
-    "serviceArea": "North York, Toronto, Vaughan, Richmond Hill, Markham, Mississauga and the surrounding GTA.",
-    "liabilityInsurance": "$5,000,000 general liability insurance",
-    "wsibInsurance": "WSIB insured & in good standing"
+    "phoneDisplay": "(647) 865-8009",
+    "topbarAddress": "5500 Yonge St, North York, ON",
+    "sundayHours": "Closed"
   },
   "hero": {
-    "eyebrow": "General contractor · North York & GTA",
-    "title": "Renovations built to live",
+    "eyebrow": "General contractor done with care",
+    "title": "Built to feel exceptional",
     "emphasis": "with.",
     "lead": "Meticulous home renovations and commercial build-outs - Quality craftsmanship, honest communication, and exceptional results."
   },
