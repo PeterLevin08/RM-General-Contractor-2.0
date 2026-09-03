@@ -1,24 +1,25 @@
 {
+  "contentVersion": 3,
   "business": {
-    "serviceArea": "North York, Toronto, Vaughan, Richmond Hill, Markham, Mississauga and the surrounding GTA.",
-    "wsibInsurance": "WSIB insured & in good standing",
-    "weekdayHours": "9 AM – 7 PM",
-    "cityAddress": "North York, ON M2N 7L1",
-    "name": "General Contractor",
-    "liabilityInsurance": "$5,000,000 general liability insurance",
-    "phoneTel": "+16478658009",
-    "streetAddress": "5500 Yonge St",
-    "topbarHours": "Mon – Sat, 9 AM – 7 PM",
-    "footerHours": "Mon – Sat · 9 AM – 7 PM",
+    "name": "RMGC Construction Inc.",
+    "tagline": "Craft • Build • Renovate",
+    "logo": "assets/img/rm-logo.png?v=stable-build-4",
     "phoneDisplay": "(647) 865-8009",
-    "topbarAddress": "5500 Yonge St, North York, ON",
-    "sundayHours": "Closed"
+    "phoneTel": "+16478658009",
+    "topbarHours": "Mon – Sat, 9 AM – 7 PM",
+    "weekdayHours": "9 AM – 7 PM",
+    "sundayHours": "Closed",
+    "footerHours": "Mon – Sat · 9 AM – 7 PM",
+    "serviceArea": "North York, Toronto, Vaughan, Richmond Hill, Markham, Mississauga and the surrounding GTA.",
+    "liabilityInsurance": "$5,000,000 general liability insurance",
+    "wsibInsurance": "WSIB insured & in good standing"
   },
   "hero": {
-    "eyebrow": "General contractor done with care",
-    "title": "Built to feel ",
-    "emphasis": "exceptional",
-    "lead": "Meticulous home renovations and commercial build-outs - Quality craftsmanship, honest communication, and exceptional results."
+    "eyebrow": "General contractor · North York & GTA",
+    "title": "Renovations built to live",
+    "emphasis": "with.",
+    "lead": "Meticulous home renovations and commercial build-outs - Quality craftsmanship, honest communication, and exceptional results.",
+    "backgroundImage": "https://images.unsplash.com/photo-1657346088167-b982455bf29a?w=2000&q=80&auto=format&fit=crop"
   },
   "servicesSection": {
     "eyebrow": "What we do",
@@ -70,42 +71,48 @@
       "title": "Full Kitchen Renovation",
       "location": "North York · Quartz counters, shaker cabinetry & brass hardware",
       "image": "assets/img/kitchen-shaker.jpg",
-      "imageAlt": "Renovated kitchen with cream shaker cabinets, quartz countertops and brass hardware"
+      "imageAlt": "Renovated kitchen with cream shaker cabinets, quartz countertops and brass hardware",
+      "gallery": []
     },
     {
       "category": "commercial",
       "title": "Photography Studio Build-Out",
       "location": "Toronto · Cyclorama, wainscotting & slat walls",
       "image": "assets/img/studio-cyclorama.jpg",
-      "imageAlt": "Photography studio build-out with large white cyclorama, wainscotting wall and black wood slat accent wall"
+      "imageAlt": "Photography studio build-out with large white cyclorama, wainscotting wall and black wood slat accent wall",
+      "gallery": []
     },
     {
       "category": "residential",
       "title": "Full Bathroom Rebuild",
       "location": "North York · Black-trim glass shower & porcelain tile",
       "image": "assets/img/bath-black-shower.jpg",
-      "imageAlt": "Renovated bathroom with black-framed glass shower and grey marble-look tile"
+      "imageAlt": "Renovated bathroom with black-framed glass shower and grey marble-look tile",
+      "gallery": []
     },
     {
       "category": "residential",
       "title": "Condo Pre-Sale Renovation",
       "location": "Toronto · Quartz island, flooring & pot lights",
       "image": "assets/img/condo-kitchen.jpg",
-      "imageAlt": "Renovated condo kitchen with quartz island, wood cabinetry and pot lights"
+      "imageAlt": "Renovated condo kitchen with quartz island, wood cabinetry and pot lights",
+      "gallery": []
     },
     {
       "category": "commercial",
       "title": "Office Fit-Out",
       "location": "GTA · Partitions, ceilings & finishes",
       "image": "https://images.unsplash.com/photo-1706689656095-168768dc20a5?w=900&q=80&auto=format&fit=crop",
-      "imageAlt": "Modern office interior with desks, chairs and plants"
+      "imageAlt": "Modern office interior with desks, chairs and plants",
+      "gallery": []
     },
     {
       "category": "residential",
       "title": "Ensuite Bath, Black Trim",
       "location": "North York · Tile, glass & matte-black fixtures",
       "image": "assets/img/bath-black-vanity.jpg",
-      "imageAlt": "Second angle of renovated bathroom with black-framed shower, new vanity and marble-look floor"
+      "imageAlt": "Second angle of renovated bathroom with black-framed shower, new vanity and marble-look floor",
+      "gallery": []
     }
   ],
   "faq": {
@@ -139,6 +146,16 @@
     "eyebrow": "Get in touch",
     "title": "Tell us about",
     "emphasis": "your project",
-    "lead": "Call directly — we'll arrange a site visit and get you a clear written estimate."
+    "lead": "Call directly — we'll arrange a site visit and get you a clear written estimate.",
+    "social": {
+      "xiaohongshuUrl": "https://xhslink.cn/o/5pugXODMLKe",
+      "xiaohongshuLabel": "Follow our updates",
+      "instagramUrl": "",
+      "instagramLabel": "Profile link coming soon",
+      "wechatQr": "assets/img/wechat-qr.png"
+    }
+  },
+  "footer": {
+    "blurb": "Craftsmanship-led residential construction and renovation with a focus on quality, communication and lasting results."
   }
 }
