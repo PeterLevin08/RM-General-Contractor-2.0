@@ -3,7 +3,7 @@
   "business": {
     "name": "RMGC Construction Inc.",
     "tagline": "Craft • Build • Renovate",
-    "logo": "assets/img/rm-logo.png?v=stable-build-4",
+    "logo": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/rm-logo.png",
     "phoneDisplay": "(647) 865-8009",
     "phoneTel": "+16478658009",
     "topbarHours": "Mon – Sat, 9 AM – 7 PM",
@@ -19,7 +19,7 @@
     "title": "Renovations built to live",
     "emphasis": "with.",
     "lead": "Meticulous home renovations and commercial build-outs - Quality craftsmanship, honest communication, and exceptional results.",
-    "backgroundImage": "https://images.unsplash.com/photo-1657346088167-b982455bf29a?w=2000&q=80&auto=format&fit=crop"
+    "backgroundImage": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/hero-background.jpg"
   },
   "servicesSection": {
     "eyebrow": "What we do",
@@ -152,7 +152,7 @@
       "xiaohongshuLabel": "Follow our updates",
       "instagramUrl": "",
       "instagramLabel": "Profile link coming soon",
-      "wechatQr": "assets/img/wechat-qr.png"
+      "wechatQr": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/wechat-qr.png"
     }
   },
   "footer": {
