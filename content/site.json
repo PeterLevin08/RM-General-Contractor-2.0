@@ -100,7 +100,29 @@
       "location": "Toronto · Cyclorama, wainscotting & slat walls",
       "image": "assets/img/studio-cyclorama.jpg",
       "imageAlt": "Photography studio build-out with large white cyclorama, wainscotting wall and black wood slat accent wall",
-      "gallery": []
+      "gallery": [
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_76_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_75_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_78_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_77_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_80_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_79_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_73_2.jpg"
+        }
+      ]
     },
     {
       "category": "residential",
@@ -136,14 +158,14 @@
     }
   ],
   "hero": {
-    "eyebrow": "General contractor · North York & GTA",
+    "eyebrow": "General contractor · GTA & Ontario",
     "title": "Built to feel ",
     "emphasis": "exceptional.",
     "lead": "RMGC Construction Inc. brings a craftsmanship-first approach to renovations, custom builds and detailed finish work—turning plans into spaces that feel considered from every angle. - Quality craftsmanship, honest communication, and exceptional results.",
     "backgroundImage": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/hero-background.jpg"
   },
   "footer": {
-    "blurb": "Craftsmanship-led residential construction and renovation with a focus on quality, communication and lasting results."
+    "blurb": "Craftsmanship-led construction and renovation with a focus on quality, communication and lasting results."
   },
   "services": [
     {
