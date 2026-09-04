@@ -1,25 +1,30 @@
 {
-  "contentVersion": 3,
-  "business": {
-    "name": "RMGC Construction Inc.",
-    "tagline": "Craft • Build • Renovate",
-    "logo": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/rm-logo.png",
-    "phoneDisplay": "(647) 865-8009",
-    "phoneTel": "+16478658009",
-    "topbarHours": "Mon – Sat, 9 AM – 7 PM",
-    "weekdayHours": "9 AM – 7 PM",
-    "sundayHours": "Closed",
-    "footerHours": "Mon – Sat · 9 AM – 7 PM",
-    "serviceArea": "North York, Toronto, Vaughan, Richmond Hill, Markham, Mississauga and the surrounding GTA.",
-    "liabilityInsurance": "$5,000,000 general liability insurance",
-    "wsibInsurance": "WSIB insured & in good standing"
+  "contact": {
+    "eyebrow": "Get in touch",
+    "title": "Tell us about",
+    "emphasis": "your project",
+    "lead": "Call directly — we'll arrange a site visit and get you a clear written estimate.",
+    "social": {
+      "xiaohongshuUrl": "https://xhslink.cn/o/5pugXODMLKe",
+      "xiaohongshuLabel": "Follow our updates",
+      "instagramUrl": "",
+      "instagramLabel": "Profile link coming soon",
+      "wechatQr": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/wechat-qr.png"
+    }
   },
-  "hero": {
-    "eyebrow": "General contractor · North York & GTA",
-    "title": "Renovations built to live",
-    "emphasis": "with.",
-    "lead": "Meticulous home renovations and commercial build-outs - Quality craftsmanship, honest communication, and exceptional results.",
-    "backgroundImage": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/hero-background.jpg"
+  "business": {
+    "serviceArea": "North York, Toronto, Vaughan, Richmond Hill, Markham, Mississauga and the surrounding GTA.",
+    "wsibInsurance": "WSIB insured & in good standing",
+    "weekdayHours": "9 AM – 7 PM",
+    "logo": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/rm-logo.png",
+    "name": "RMGC Construction Inc.",
+    "liabilityInsurance": "$5,000,000 general liability insurance",
+    "phoneTel": "+16478658009",
+    "tagline": "Craft • Build • Renovate",
+    "topbarHours": "Mon – Sat, 9 AM – 7 PM",
+    "footerHours": "Mon – Sat · 9 AM – 7 PM",
+    "phoneDisplay": "(647) 865-8009",
+    "sundayHours": "Closed"
   },
   "servicesSection": {
     "eyebrow": "What we do",
@@ -27,52 +32,57 @@
     "emphasis": "define our craft",
     "lead": "Residential renovations and commercial projects, planned properly and finished with care."
   },
-  "services": [
-    {
-      "category": "01 · Residential",
-      "title": "Home Renovations",
-      "description": "Kitchens, bathrooms, basements, condos and full-home renovations. We coordinate every trade and protect your home from demolition day to final walkthrough.",
-      "bullets": [
-        "Kitchen & bathroom renovations",
-        "Open-concept spaces — remove load-bearing walls to make your space feel bigger",
-        "Basements — finishing, egress, in-law & rental suites",
-        "Condo renovations & pre-sale upgrades",
-        "Flooring, painting, trim & feature walls"
-      ],
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80&auto=format&fit=crop",
-      "imageAlt": "Bright renovated kitchen with a large island",
-      "buttonLabel": "Get a renovation quote"
-    },
-    {
-      "category": "02 · Commercial",
-      "title": "Commercial Projects",
-      "description": "Build-outs and renovations for offices, studios, retail and hospitality spaces. We work to your drawings and your opening date, coordinate trades, and keep the site clean and code-compliant.",
-      "bullets": [
-        "Office & workspace build-outs",
-        "Retail and showroom fit-outs",
-        "Studios & specialty spaces — cycloramas, acoustic walls",
-        "Commercial washrooms & plumbing rough-in",
-        "Turnkey project management & trade coordination"
-      ],
-      "image": "https://images.unsplash.com/photo-1706074793638-da28b90ea8ae?w=1200&q=80&auto=format&fit=crop",
-      "imageAlt": "Modern commercial office space with a long conference table",
-      "buttonLabel": "Discuss a commercial build"
-    }
-  ],
   "projectsSection": {
     "eyebrow": "Selected work",
     "title": "Projects that",
     "emphasis": "define our style",
     "lead": "A selection of the homes and spaces we've transformed across the GTA."
   },
+  "faq": {
+    "eyebrow": "Common questions",
+    "title": "Everything you need to know",
+    "emphasis": "before we begin",
+    "items": [
+      {
+        "question": "What types of projects do you take on?",
+        "answer": "We handle home renovations, kitchens and bathrooms, basement finishing, condo renovations, and commercial build-outs including office and retail fit-outs."
+      },
+      {
+        "question": "Where do you provide service?",
+        "answer": "Our team serves North York, Toronto, Vaughan, Richmond Hill, Markham, Mississauga, and communities throughout the surrounding GTA."
+      },
+      {
+        "question": "How does the estimate process work?",
+        "answer": "Call us to talk through your project. We’ll arrange a site visit, understand the scope, and provide a clear written estimate. Estimates are always free."
+      },
+      {
+        "question": "Are you insured?",
+        "answer": "Yes. RM General Contractor Inc. carries $5 million in general liability insurance and is WSIB insured and in good standing. Certificates are available on request before work begins."
+      },
+      {
+        "question": "When can I reach you?",
+        "answer": "We’re available Monday through Saturday, from 9 AM to 7 PM. Call (647) 865-8009 to get started."
+      }
+    ]
+  },
   "projects": [
     {
       "category": "residential",
       "title": "Full Kitchen Renovation",
       "location": "North York · Quartz counters, shaker cabinetry & brass hardware",
-      "image": "assets/img/kitchen-shaker.jpg",
+      "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_99_2.jpg",
       "imageAlt": "Renovated kitchen with cream shaker cabinets, quartz countertops and brass hardware",
-      "gallery": []
+      "gallery": [
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_99_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_100_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_102_2.jpg"
+        }
+      ]
     },
     {
       "category": "commercial",
@@ -115,47 +125,47 @@
       "gallery": []
     }
   ],
-  "faq": {
-    "eyebrow": "Common questions",
-    "title": "Everything you need to know",
-    "emphasis": "before we begin",
-    "items": [
-      {
-        "question": "What types of projects do you take on?",
-        "answer": "We handle home renovations, kitchens and bathrooms, basement finishing, condo renovations, and commercial build-outs including office and retail fit-outs."
-      },
-      {
-        "question": "Where do you provide service?",
-        "answer": "Our team serves North York, Toronto, Vaughan, Richmond Hill, Markham, Mississauga, and communities throughout the surrounding GTA."
-      },
-      {
-        "question": "How does the estimate process work?",
-        "answer": "Call us to talk through your project. We’ll arrange a site visit, understand the scope, and provide a clear written estimate. Estimates are always free."
-      },
-      {
-        "question": "Are you insured?",
-        "answer": "Yes. RM General Contractor Inc. carries $5 million in general liability insurance and is WSIB insured and in good standing. Certificates are available on request before work begins."
-      },
-      {
-        "question": "When can I reach you?",
-        "answer": "We’re available Monday through Saturday, from 9 AM to 7 PM. Call (647) 865-8009 to get started."
-      }
-    ]
-  },
-  "contact": {
-    "eyebrow": "Get in touch",
-    "title": "Tell us about",
-    "emphasis": "your project",
-    "lead": "Call directly — we'll arrange a site visit and get you a clear written estimate.",
-    "social": {
-      "xiaohongshuUrl": "https://xhslink.cn/o/5pugXODMLKe",
-      "xiaohongshuLabel": "Follow our updates",
-      "instagramUrl": "",
-      "instagramLabel": "Profile link coming soon",
-      "wechatQr": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/wechat-qr.png"
-    }
+  "hero": {
+    "eyebrow": "General contractor · North York & GTA",
+    "title": "Built to feel ",
+    "emphasis": "exceptional.",
+    "lead": "RMGC Construction Inc. brings a craftsmanship-first approach to renovations, custom builds and detailed finish work—turning plans into spaces that feel considered from every angle. - Quality craftsmanship, honest communication, and exceptional results.",
+    "backgroundImage": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/hero-background.jpg"
   },
   "footer": {
     "blurb": "Craftsmanship-led residential construction and renovation with a focus on quality, communication and lasting results."
-  }
+  },
+  "services": [
+    {
+      "category": "01 · Residential",
+      "title": "Home Renovations",
+      "description": "Kitchens, bathrooms, basements, condos and full-home renovations. We coordinate every trade and protect your home from demolition day to final walkthrough.",
+      "bullets": [
+        "Kitchen & bathroom renovations",
+        "Open-concept spaces — remove load-bearing walls to make your space feel bigger",
+        "Basements — finishing, egress, in-law & rental suites",
+        "Condo renovations & pre-sale upgrades",
+        "Flooring, painting, trim & feature walls"
+      ],
+      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80&auto=format&fit=crop",
+      "imageAlt": "Bright renovated kitchen with a large island",
+      "buttonLabel": "Get a renovation quote"
+    },
+    {
+      "category": "02 · Commercial",
+      "title": "Commercial Projects",
+      "description": "Build-outs and renovations for offices, studios, retail and hospitality spaces. We work to your drawings and your opening date, coordinate trades, and keep the site clean and code-compliant.",
+      "bullets": [
+        "Office & workspace build-outs",
+        "Retail and showroom fit-outs",
+        "Studios & specialty spaces — cycloramas, acoustic walls",
+        "Commercial washrooms & plumbing rough-in",
+        "Turnkey project management & trade coordination"
+      ],
+      "image": "https://images.unsplash.com/photo-1706074793638-da28b90ea8ae?w=1200&q=80&auto=format&fit=crop",
+      "imageAlt": "Modern commercial office space with a long conference table",
+      "buttonLabel": "Discuss a commercial build"
+    }
+  ],
+  "contentVersion": 3
 }
