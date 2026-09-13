@@ -38,6 +38,37 @@
     "emphasis": "define our style",
     "lead": "A selection of the homes and spaces we've transformed across the GTA."
   },
+  "about": {
+    "buttonLabel": "Request a free estimate",
+    "credentials": [
+      {
+        "text": "liability insurance",
+        "title": "$5,000,000"
+      },
+      {
+        "text": "insured & in good standing",
+        "title": "WSIB"
+      },
+      {
+        "text": "& workmanship warranty",
+        "title": "Written estimates"
+      },
+      {
+        "text": "— plumbing, electrical & HVAC",
+        "title": "Licensed trades"
+      }
+    ],
+    "emphasis": "and finishes",
+    "eyebrow": "Who you're hiring",
+    "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/about-craftsman.jpg",
+    "imageAlt": "Craftsman working at a miter saw on a renovation site",
+    "paragraphs": [
+      "RM General Contractor Inc is a North York–based construction company led by Roger, working across Toronto and the surrounding GTA. We take on residential renovations and commercial build-outs — and the responsibility that comes with them.",
+      "That means arriving when we say we will, protecting your floors and furniture before the first tool comes out, flagging problems we find behind the walls instead of covering them up, and leaving the space cleaner than we found it. Most of our work comes from referrals and repeat clients — the only endorsement in this trade that really counts.",
+      "We carry $5,000,000 in liability insurance and are WSIB insured — your property and everyone on your site is properly covered, on every job, without exception."
+    ],
+    "title": "A contractor who shows up,"
+  },
   "faq": {
     "eyebrow": "Common questions",
     "title": "Everything you need to know",
@@ -126,11 +157,47 @@
     },
     {
       "category": "residential",
-      "title": "Full Bathroom Rebuild",
-      "location": "North York · Black-trim glass shower & porcelain tile",
+      "title": "Full Bathroom Renovation",
+      "location": "Newmarket · Black-trim glass shower & porcelain tile",
       "image": "assets/img/bath-black-shower.jpg",
       "imageAlt": "Renovated bathroom with black-framed glass shower and grey marble-look tile",
-      "gallery": []
+      "gallery": [
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_152_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_151_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_153_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_154_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_150_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_149_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_155_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/fb3fa97fed6043974abdae286be074b1.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_148_2.jpg",
+          "imageAlt": "Renovation Protection "
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_147_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/0c2244ea8339c105d98412fa807b6cdb.jpg",
+          "imageAlt": "24 hours waterproof test"
+        }
+      ]
     },
     {
       "category": "residential",
@@ -199,36 +266,5 @@
       "buttonLabel": "Discuss a commercial build"
     }
   ],
-  "contentVersion": 3,
-  "about": {
-    "buttonLabel": "Request a free estimate",
-    "credentials": [
-      {
-        "text": "liability insurance",
-        "title": "$5,000,000"
-      },
-      {
-        "text": "insured & in good standing",
-        "title": "WSIB"
-      },
-      {
-        "text": "& workmanship warranty",
-        "title": "Written estimates"
-      },
-      {
-        "text": "— plumbing, electrical & HVAC",
-        "title": "Licensed trades"
-      }
-    ],
-    "emphasis": "and finishes",
-    "eyebrow": "Who you're hiring",
-    "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/about-craftsman.jpg",
-    "imageAlt": "Craftsman working at a miter saw on a renovation site",
-    "paragraphs": [
-      "RM General Contractor Inc is a North York–based construction company led by Roger, working across Toronto and the surrounding GTA. We take on residential renovations and commercial build-outs — and the responsibility that comes with them.",
-      "That means arriving when we say we will, protecting your floors and furniture before the first tool comes out, flagging problems we find behind the walls instead of covering them up, and leaving the space cleaner than we found it. Most of our work comes from referrals and repeat clients — the only endorsement in this trade that really counts.",
-      "We carry $5,000,000 in liability insurance and are WSIB insured — your property and everyone on your site is properly covered, on every job, without exception."
-    ],
-    "title": "A contractor who shows up,"
-  }
+  "contentVersion": 3
 }
