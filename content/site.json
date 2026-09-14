@@ -254,7 +254,7 @@
         "Condo renovations & pre-sale upgrades",
         "Flooring, painting, trim & feature walls"
       ],
-      "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80&auto=format&fit=crop",
+      "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/service-residential.jpg",
       "imageAlt": "Bright renovated kitchen with a large island",
       "buttonLabel": "Get a renovation quote"
     },
@@ -269,7 +269,7 @@
         "Commercial washrooms & plumbing rough-in",
         "Turnkey project management & trade coordination"
       ],
-      "image": "https://images.unsplash.com/photo-1706074793638-da28b90ea8ae?w=1200&q=80&auto=format&fit=crop",
+      "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/service-commercial.jpg",
       "imageAlt": "Modern commercial office space with a long conference table",
       "buttonLabel": "Discuss a commercial build"
     }
