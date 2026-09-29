@@ -209,27 +209,108 @@
     },
     {
       "category": "residential",
-      "title": "Condo Pre-Sale Renovation",
-      "location": "Toronto · Quartz island, flooring & pot lights",
-      "image": "assets/img/condo-kitchen.jpg",
+      "title": "Condo Renovation",
+      "location": "Toronto · Quartz island, flooring, remove popcorn ceiling, new wall paint, pot lights",
+      "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_129_2.jpg",
       "imageAlt": "Renovated condo kitchen with quartz island, wood cabinetry and pot lights",
-      "gallery": []
+      "gallery": [
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_129_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_124_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_128_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_123_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_121_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_119_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_127_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_96_2.jpg",
+          "imageAlt": "Before"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_93_2.jpg",
+          "imageAlt": "Before"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_95_2.jpg",
+          "imageAlt": "Before"
+        }
+      ]
     },
     {
       "category": "commercial",
-      "title": "Office Fit-Out",
-      "location": "GTA · Partitions, ceilings & finishes",
-      "image": "https://images.unsplash.com/photo-1706689656095-168768dc20a5?w=900&q=80&auto=format&fit=crop",
-      "imageAlt": "Modern office interior with desks, chairs and plants",
-      "gallery": []
+      "title": "Dance Studio ",
+      "location": "Scarborough · New dance flooring, Paint ceiling&wall, install mirror, add more lighting, remove office wall and washroom renew etc",
+      "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_160_2.jpg",
+      "imageAlt": "",
+      "gallery": [
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_160_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_159_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_158_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_156_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_161_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_170_2.jpg",
+          "imageAlt": "3D design"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_171_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_138_2.jpg",
+          "imageAlt": "Before"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_137_2.jpg"
+        }
+      ]
     },
     {
       "category": "residential",
-      "title": "Ensuite Bath, Black Trim",
-      "location": "North York · Tile, glass & matte-black fixtures",
-      "image": "assets/img/bath-black-vanity.jpg",
+      "title": "Ensuite Bath",
+      "location": "Markham · 4 pcs Bathroom renovation",
+      "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_179_2.jpg",
       "imageAlt": "Second angle of renovated bathroom with black-framed shower, new vanity and marble-look floor",
-      "gallery": []
+      "gallery": [
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_179_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_183_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_180_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_182_2.jpg"
+        },
+        {},
+        {},
+        {},
+        {}
+      ]
     }
   ],
   "hero": {
