@@ -250,6 +250,60 @@
       ]
     },
     {
+      "category": "residential",
+      "title": "Ensuite Bath Renovation",
+      "location": "Markham · 4 pcs Bathroom renovation",
+      "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_179_2.jpg",
+      "imageAlt": "Second angle of renovated bathroom with black-framed shower, new vanity and marble-look floor",
+      "gallery": [
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_179_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_183_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_189_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_182_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_181_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_184_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_188_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_186_2.jpg",
+          "imageAlt": "No trim between tile and wood floor"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_175_2.jpg",
+          "imageAlt": "24hrs water test"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_176_2.jpg",
+          "imageAlt": "schluter waterproofing system"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_178_2.jpg",
+          "imageAlt": "schluter waterproofing system"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_173_2.jpg",
+          "imageAlt": "Before"
+        },
+        {
+          "imageAlt": "Before",
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_172_2.jpg"
+        }
+      ]
+    },
+    {
       "category": "commercial",
       "title": "Dance Studio ",
       "location": "Scarborough · New dance flooring, Paint ceiling&wall, install mirror, add more lighting, remove office wall and washroom renew etc",
@@ -288,28 +342,62 @@
       ]
     },
     {
-      "category": "residential",
-      "title": "Ensuite Bath",
-      "location": "Markham · 4 pcs Bathroom renovation",
-      "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_179_2.jpg",
-      "imageAlt": "Second angle of renovated bathroom with black-framed shower, new vanity and marble-look floor",
+      "imageAlt": "",
+      "category": "commercial",
+      "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_135_2.jpg",
+      "title": "Cafe Shop",
+      "location": "Toronto - Finish in 24 hours (Paint ceiling and remove wall )",
       "gallery": [
         {
-          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_179_2.jpg"
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_135_2.jpg"
         },
         {
-          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_183_2.jpg"
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_134_2.jpg"
         },
         {
-          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_180_2.jpg"
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_133_2.jpg"
         },
         {
-          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_182_2.jpg"
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_136_2.jpg"
         },
-        {},
-        {},
-        {},
-        {}
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_132_2.jpg",
+          "imageAlt": "Before"
+        },
+        {
+          "imageAlt": "Before",
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_131_2.jpg"
+        }
+      ]
+    },
+    {
+      "category": "commercial",
+      "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_115_2.jpg",
+      "title": "Photography studio",
+      "location": "North York - Build the photo wall",
+      "gallery": [
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_115_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_112_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903160316_113_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_112_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_110_2.jpg"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_108_2.jpg",
+          "imageAlt": "Before"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/PeterLevin08/RM-General-Contractor-2.0/main/assets/uploads/图片_20260903155607_107_2.jpg"
+        }
       ]
     }
   ],
